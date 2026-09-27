@@ -63,7 +63,6 @@ p {
     background-color: var(--color-bg-light);
 }
 
-/* Botón Principal */
 .btn {
     display: inline-block;
     background: var(--color-accent);
